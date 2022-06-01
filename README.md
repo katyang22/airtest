@@ -62,6 +62,6 @@ Connect to the iPhone by ip address, refresh screen, run tests
 
 After the above two steps, you can fill "http://127.0.0.1:8100" in the iOS address input box of AirtestIDE. Click button "connect" to connect your iPhone and start your Airtest test.
 
-connectDevice
+Poco Set Up:
+https://poco.readthedocs.io/en/latest/source/doc/implementation_guide.html
 
- image
